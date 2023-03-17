@@ -1,5 +1,7 @@
 # Pyside6 Botão troll
-Este é um pequeno aplicativo que exibe uma janela com uma pergunta e dois botões. Quando um dos botões é clicado, a janela exibe uma nova mensagem. A imagem de fundo e o ícone da janela podem ser personalizados.
+Este é um pequeno aplicativo que exibe uma janela com uma pergunta e dois botões. Quando um dos botões é clicado, a janela exibe uma nova mensagem. A imagem de fundo e o ícone da janela podem ser personalizados. No repositório a personalização está como uma mensagem para a namorada como uma brincadeira que ficarão juntos para sempre.
+
+![Imagem exemplo de como fica o programa](Exemplo.png)
 
 # Instalação
 Para instalar as dependências listadas em um arquivo _requirements.txt_, você pode usar o comando pip da seguinte forma:
